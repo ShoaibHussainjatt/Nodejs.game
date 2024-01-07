@@ -1,18 +1,17 @@
 # Nodejs.game
 I used NodeJS to make spinning jackpot machine game.
+
 To run this code in Node.js via the terminal, follow these steps:
 
-Open a terminal: Navigate to the directory where your index.js file is located.
-
-Run the file with Node.js: Execute the script using Node.js. In the terminal, type:
-
+1.Open a terminal: Navigate to the directory where your index.js file is located.
+2.Run the file with Node.js: Execute the script using Node.js. In the terminal, type:
 bash
 Copy code
 node index.js
 Press Enter to execute the script.
 
-Follow the instructions: Once the script is running, you'll be prompted to interact with the game. Follow the prompts in the terminal as directed:
-
+3.Follow the instructions: Once the script is running, you'll be prompted to interact with the game. Follow the prompts in the terminal as directed:
+4.
 Enter the deposit amount.
 Determine the number of lines to bet on.
 Enter the bet amount.
